@@ -2,8 +2,7 @@
  Lista de Municípios com respectivos códigos do IBGE
  
  head()
- 
-<<<<<<< HEAD
+
 Município #	REGIÃO	UF	Município
 110001	NORTE	RO	ALTA FLORESTA D OESTE
 110002	NORTE	RO	ARIQUEMES
