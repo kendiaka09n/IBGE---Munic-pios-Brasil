@@ -1,7 +1,7 @@
 # IBGE - Municípios Brasil
  Lista de Municípios com respectivos códigos do IBGE
  
- head()
+
 
 Município #	REGIÃO	UF	Município
 110001	NORTE	RO	ALTA FLORESTA D OESTE
